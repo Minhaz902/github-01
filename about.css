@@ -1,0 +1,27 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: burlywood;
+}
+.topmenu{
+    background-color:skyblue;
+}
+ul{
+    list-style:none;
+    overflow: hidden;
+}
+li a{
+    text-decoration: none;
+    display:block;
+    color:white;
+}
+li{
+    float:left;
+    padding:20px 30px;
+}
+li a:hover{
+    color:orangered;
+}
+footer{
+    background-color: gold;
+}
