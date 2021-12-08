@@ -1,9 +1,8 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color: burlywood;
 }
 .topmenu{
-    background-color:skyblue;
+    background-color:aqua;
 }
 ul{
     list-style:none;
@@ -12,14 +11,17 @@ ul{
 li a{
     text-decoration: none;
     display:block;
-    color:white;
+    color:maroon;
 }
 li{
     float:left;
-    padding:20px 30px;
+    padding: 2%;
 }
 li a:hover{
-    color:orangered;
+    color:red;
+}
+.course{
+    color:red;
 }
 div a{
     text-decoration: none;
@@ -27,5 +29,5 @@ div a{
     color:maroon;
 }
 footer{
-    background-color: gold;
+    background-color:antiquewhite;
 }
