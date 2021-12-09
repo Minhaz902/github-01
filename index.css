@@ -23,6 +23,10 @@ li a:hover{
 .course{
     color:red;
 }
+.lowerblock{
+    display:block;
+    background-color:lightskyblue;
+}
 footer{
     background-color:antiquewhite;
 }
